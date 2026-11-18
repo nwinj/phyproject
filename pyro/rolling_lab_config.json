@@ -1,0 +1,11 @@
+{
+  "port": "COM6",
+  "baud": 115200,
+  "sensor_distance_m": 0.15,
+  "ball_diameter_m": 0.04,
+  "ball_mass_kg": 0.0027,
+  "inertia_factor": 0.6666666666666666,
+  "max_trials": 10,
+  "max_speed_ms": 5.0,
+  "gauge_max_ms": 3.0
+}
